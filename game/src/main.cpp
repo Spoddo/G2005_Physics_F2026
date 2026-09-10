@@ -8,6 +8,9 @@ See documentation here: https://www.raylib.com/, and examples here: https://www.
 #define RAYGUI_IMPLEMENTATION
 #include "raygui.h"
 
+// ADD NAME AND STUDENT NUMBER
+// EXPERIMENT I GUESS
+
 const unsigned int TARGET_FPS = 50;
 float time = 0;
 int main()
